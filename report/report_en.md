@@ -1,6 +1,6 @@
 # Project Report: Extending RSA Cryptography to the Ring of Gaussian Integers
 
-**Student Name**: 刘博铮 12413116
+**Student Name**: *******
 **Course**: Discrete Mathematics  
 **Date**: December 23, 2025
 
@@ -183,3 +183,4 @@ While Gaussian RSA is computationally more expensive and offers no theoretical s
 
 ---
 *End of Report*
+
