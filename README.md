@@ -1,5 +1,7 @@
 # Gaussian RSA Project / 高斯 RSA 项目
 
+得分：4/5
+
 ## Overview / 概述
 
 This project implements the RSA cryptosystem over the ring of Gaussian Integers $\mathbb{Z}[i]$.
@@ -44,3 +46,4 @@ python analysis/benchmark.py
 - **Key Generation**: Generates large Gaussian Primes (Split and Inert types).
 - **Encryption/Decryption**: Full RSA cycle on the complex plane.
 - **Analysis**: Compare performance with standard Integer RSA.
+
